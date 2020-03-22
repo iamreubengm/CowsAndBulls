@@ -1,3 +1,3 @@
 # CowsAndBulls
-# Written on Python 2.7
-# Will Not Work On Python 3
+# Written in Python 2.7
+# A simple game called Cows and Bulls made as a high school project in Python.
